@@ -1,0 +1,9 @@
+{
+  "name": "git-forge",
+  "version": "1.0.0",
+  "description": "A standalone GitHub-compatible git forge: git smart HTTP, REST v3, GraphQL v4, MCP. One Node process, zero dependencies, in-memory store.",
+  "type": "module",
+  "license": "MIT",
+  "main": "main.ts",
+  "engines": { "node": ">=22" }
+}
